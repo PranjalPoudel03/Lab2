@@ -1,6 +1,6 @@
 # Required Features
 
-[x] The user can enter their guess into an input box before seeing the flipside of the card
+[x] [x] The user can enter their guess into an input box before seeing the flipside of the card
         Application features a clearly labeled input box with a submit button where users can type in a guess
         Clicking on the submit button with an incorrect answer shows visual feedback that it is wrong
         Clicking on the submit button with a correct answer shows visual feedback that it is correct
@@ -19,7 +19,7 @@
 [x]  A user’s answer may be counted as correct even when it is slightly different from the target answer
         Answers are considered correct even if they only partially match the answer on the card
         Examples: ignoring uppercase/lowercase discrepancies, ignoring punctuation discrepancies, matching only for a particular part of the answer rather than the whole answer
-        
+
 [x] A counter displays the user’s current and longest streak of correct responses
         The current counter increments when a user guesses an answer correctly
         The current counter resets to 0 when a user guesses an answer incorrectly
