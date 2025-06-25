@@ -15,9 +15,11 @@
 [x]  Users can use a shuffle button to randomize the order of the cards
         Cards should remain in the same sequence (NOT randomized) unless the shuffle button is clicked
         Cards should change to a random sequence once the shuffle button is clicked
+
 [x]  A user’s answer may be counted as correct even when it is slightly different from the target answer
         Answers are considered correct even if they only partially match the answer on the card
         Examples: ignoring uppercase/lowercase discrepancies, ignoring punctuation discrepancies, matching only for a particular part of the answer rather than the whole answer
+        
 [x] A counter displays the user’s current and longest streak of correct responses
         The current counter increments when a user guesses an answer correctly
         The current counter resets to 0 when a user guesses an answer incorrectly
